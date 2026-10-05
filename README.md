@@ -18,7 +18,6 @@ I'm a data analyst with a BCS-accredited diploma. I care about doing analysis th
 <h3>Languages & Querying</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 <h3>Python Libraries</h3>
 <p align="left">
@@ -31,7 +30,6 @@ I'm a data analyst with a BCS-accredited diploma. I care about doing analysis th
 </p>
 <h3>BI & Visualisation</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
