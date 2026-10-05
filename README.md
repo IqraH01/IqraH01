@@ -77,14 +77,14 @@ I'm a data analyst with a BCS-accredited diploma. I care about doing analysis th
   </thead>
   <tbody>
     <tr>
-      <td><strong>[Project Title 1]</strong></td>
-      <td>Brief description of what the analysis covers and the key insight found.</td>
-      <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
+      <td><strong>[EDA on Sales Data]</strong></td>
+      <td>EDA of Global Superstore sales data in Python, exploring sales and profit by product, region and category, plus trends over time.</td>
+      <td><a href="https://github.com/IqraH01/EDA-on-sales-data">Repo</a> · <a href="https://github.com/IqraH01/EDA-on-sales-data/blob/main/EDA%20on%20sales%20data.ipynb">Notebook</a></td>
     </tr>
     <tr>
-      <td><strong>[Project Title 2]</strong></td>
-      <td>Brief description of what the analysis covers and the key insight found.</td>
-      <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
+      <td><strong>[Toxin Analysis]</strong></td>
+      <td>Analysis of toxin levels (lead, mercury, arsenic) across river systems in Python, exploring the most polluted rivers, changes in lead over time, and correlations between variables.</td>
+      <td><a href="https://github.com/IqraH01/Toxin-Analysis-">Repo</a> · <a href="https://github.com/IqraH01/Toxin-Analysis-/blob/main/Toxin%20Analysis%20in%20River%20Systems.ipynb">Notebook</a></td>
     </tr>
     <tr>
       <td><strong>[Project Title 3]</strong></td>
