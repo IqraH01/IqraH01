@@ -84,11 +84,6 @@ I'm a data analyst with a BCS-accredited diploma. I care about doing analysis th
       <td>Analysis of toxin levels (lead, mercury, arsenic) across river systems in Python, exploring the most polluted rivers, changes in lead over time, and correlations between variables.</td>
       <td><a href="https://github.com/IqraH01/Toxin-Analysis-">Repo</a> · <a href="https://github.com/IqraH01/Toxin-Analysis-/blob/main/Toxin%20Analysis%20in%20River%20Systems.ipynb">Notebook</a></td>
     </tr>
-    <tr>
-      <td><strong>[Project Title 3]</strong></td>
-      <td>Brief description of what the analysis covers and the key insight found.</td>
-      <td><a href="#">Repo</a> · <a href="#">Notebook</a></td>
-    </tr>
   </tbody>
 </table>
 <h2>Connect With Me</h2>
