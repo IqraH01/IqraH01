@@ -10,8 +10,6 @@
 I'm a data analyst with a BCS-accredited diploma. I care about doing analysis that's honest, reproducible, and actually useful.
 </p>
 <ul>
-    <li>Currently building my portfolio with real-world datasets</li>
-    <li>Comfortable across SQL, Python, Power BI, and Tableau</li>
     <li>Committed to ethical, transparent data practice</li>
 </ul>
 <h2>Tech Stack</h2>
