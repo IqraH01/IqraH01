@@ -89,8 +89,5 @@ I'm a data analyst with a BCS-accredited diploma. I care about doing analysis th
   <a href="https://www.linkedin.com/in/iqra-hussain-aa8029252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:iqrabhussain111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 <p align="center">Thanks for stopping by. Feel free to explore the repos or reach out!</p>
