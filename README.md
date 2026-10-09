@@ -73,14 +73,19 @@ I'm a data analyst with a BCS-accredited diploma. I care about doing analysis th
   </thead>
   <tbody>
     <tr>
-      <td><strong>[EDA on Sales Data]</strong></td>
+      <td><strong>EDA on Sales Data</strong></td>
       <td>EDA of Global Superstore sales data in Python, exploring sales and profit by product, region and category, plus trends over time.</td>
-      <td><a href="https://github.com/IqraH01/EDA-on-sales-data">Repo</a> · <a href="https://github.com/IqraH01/EDA-on-sales-data/blob/main/EDA%20on%20sales%20data.ipynb">Notebook</a></td>
+      <td><a href="https://github.com/IqraH01/EDA-on-sales-data">Repo</a> · <a href="https://github.com/IqraH01/EDA-on-sales-data/blob/main/EDA%20on%20sales%20data.ipynb">Read Me</a></td>
     </tr>
     <tr>
-      <td><strong>[Toxin Analysis]</strong></td>
+      <td><strong>Toxin Analysis</strong></td>
       <td>Analysis of toxin levels (lead, mercury, arsenic) across river systems in Python, exploring the most polluted rivers, changes in lead over time, and correlations between variables.</td>
       <td><a href="https://github.com/IqraH01/Toxin-Analysis-">Repo</a> · <a href="https://github.com/IqraH01/Toxin-Analysis-/blob/main/Toxin%20Analysis%20in%20River%20Systems.ipynb">Notebook</a></td>
+    </tr>
+    <tr>
+      <td><strong>To-Do List Website</strong></td>
+      <td>A simple website for creating, managing, and tracking daily tasks.</td>
+      <td><a href="[https://github.com/IqraH01/Toxin-Analysis-](https://github.com/IqraH01/To-Do-List-Website)">Repo</a> · <a href="[https://github.com/IqraH01/Toxin-Analysis-/blob/main/Toxin%20Analysis%20in%20River%20Systems.ipynb](https://github.com/IqraH01/To-Do-List-Website/blob/main/README.md)">Notebook</a></td>
     </tr>
   </tbody>
 </table>
