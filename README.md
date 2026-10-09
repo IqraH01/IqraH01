@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋 I'm a Data Analyst</h1>
-<h3 align="center">Turning raw data into decisions that matter</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/BCS%20Accredited-Data%20Analysis%20Diploma-007ACC?style=for-the-badge&logoColor=white" alt="Data Analysis Diploma"/>
   <img src="https://img.shields.io/badge/Certification-CompTIA%20Data%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Data+"/>
@@ -7,7 +5,7 @@
 </p>
 <h2>About Me</h2>
 <p>
-I'm a data analyst with a BCS-accredited diploma. I care about doing analysis that's honest, reproducible, and actually useful.
+I have a BCS-accredited diploma. I care about doing analysis that's honest, reproducible, and actually useful.
 </p>
 <ul>
     <li>Committed to ethical, transparent data practice</li>
@@ -60,9 +58,6 @@ I'm a data analyst with a BCS-accredited diploma. I care about doing analysis th
   </tbody>
 </table>
 <h2>Projects & Portfolio</h2>
-<blockquote>
-  This section showcases applied work from the Data Analysis Diploma and independent projects.
-</blockquote>
 <table>
   <thead>
     <tr>
@@ -75,17 +70,17 @@ I'm a data analyst with a BCS-accredited diploma. I care about doing analysis th
     <tr>
       <td><strong>EDA on Sales Data</strong></td>
       <td>EDA of Global Superstore sales data in Python, exploring sales and profit by product, region and category, plus trends over time.</td>
-      <td><a href="https://github.com/IqraH01/EDA-on-sales-data">Repo</a> · <a href="https://github.com/IqraH01/EDA-on-sales-data/blob/main/EDA%20on%20sales%20data.ipynb">Read Me</a></td>
+      <td><a href="https://github.com/IqraH01/EDA-on-sales-data">Repo</a> · <a href="https://github.com/IqraH01/EDA-on-sales-data/blob/main/EDA%20on%20sales%20data.ipynb">Notebook</a></td>
     </tr>
     <tr>
       <td><strong>Toxin Analysis</strong></td>
       <td>Analysis of toxin levels (lead, mercury, arsenic) across river systems in Python, exploring the most polluted rivers, changes in lead over time, and correlations between variables.</td>
       <td><a href="https://github.com/IqraH01/Toxin-Analysis-">Repo</a> · <a href="https://github.com/IqraH01/Toxin-Analysis-/blob/main/Toxin%20Analysis%20in%20River%20Systems.ipynb">Notebook</a></td>
     </tr>
-    <tr>
+      <tr>
       <td><strong>To-Do List Website</strong></td>
       <td>A simple website for creating, managing, and tracking daily tasks.</td>
-      <td><a href="[https://github.com/IqraH01/Toxin-Analysis-](https://github.com/IqraH01/To-Do-List-Website)">Repo</a> · <a href="[https://github.com/IqraH01/Toxin-Analysis-/blob/main/Toxin%20Analysis%20in%20River%20Systems.ipynb](https://github.com/IqraH01/To-Do-List-Website/blob/main/README.md)">Notebook</a></td>
+      <td><a href="https://github.com/IqraH01/To-Do-List-Website">Repo</a> · <a href="https://github.com/IqraH01/To-Do-List-Website/blob/main/README.md">Read Me</a></td>
     </tr>
   </tbody>
 </table>
