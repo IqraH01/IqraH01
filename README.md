@@ -70,7 +70,7 @@ I have a BCS-accredited diploma. I care about doing analysis that's honest, repr
     <tr>
       <td><strong>EDA on Sales Data</strong></td>
       <td>EDA of Global Superstore sales data in Python, exploring sales and profit by product, region and category, plus trends over time.</td>
-      <td><a href="https://github.com/IqraH01/EDA-on-sales-data">Repo</a> · <a href="EDA on Sales Data.ipynb">Notebook</a></td>
+      <td><a href="https://github.com/IqraH01/EDA-on-sales-data">Repo</a> · <a href="https://github.com/IqraH01/EDA-on-sales-data/blob/main/EDA%20on%20Sales%20Data.ipynb">Notebook</a></td>
     </tr>
     <tr>
       <td><strong>Toxin Analysis</strong></td>
